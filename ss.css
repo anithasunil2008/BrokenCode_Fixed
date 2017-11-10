@@ -1,0 +1,30 @@
+#pad{
+	padding: 25px;
+}
+
+h1{
+	border-style: solid; 
+	border-color: black;
+	padding-top: 10px;
+	color: black;
+	background-color: #DAA520;
+}
+
+#col{
+	color: yellow;
+}
+
+.textcolor{
+	color: yellow;
+}
+
+#bla{
+	color: black;
+}
+
+.button{
+	background-color: #DAA520;
+	color: black;
+	border-style: solid;
+    border-color: black;
+}

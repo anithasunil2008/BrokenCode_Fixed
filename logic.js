@@ -1,4 +1,4 @@
-$("#factButton").on("click", function() {
+$("#factButton").on(`1`"click", function() {
 	var number = Math.floor((Math.random() * booFacts.length));
 	$("#factText").text(booFacts[number])
 })
